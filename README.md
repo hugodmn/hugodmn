@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/electron260/Images/blob/main/hack.gif" width = 250px></picture>
 
 <br>
 I am an undergraduate student in Creative Technology studying Human-Computer Interactions. As part of the Artificial Lives group, I am interested in computer science, deep learning and electronics. I'm working on projects aiming at making human-computer interfaces seameless, smooth and intuitive.
