@@ -14,7 +14,7 @@ I am an undergraduate student in Creative Technology studying Human-Computer Int
 You can learn about my projects 
 <a href="https://dvic.devinci.fr/member/hugo-daumain">here</a>.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -39,13 +39,10 @@ You can learn about my projects
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 </p>
-
-<br>
 <br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
