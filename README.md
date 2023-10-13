@@ -7,7 +7,7 @@
 	
 ## <picture><img src = "https://github.com/electron260/electron260/blob/main/GIF/hack.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/electron260/electron260/blob/main/GIF/code.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/hugodmn/hugodmn/blob/main/GIF/NN-Gif.gif" width = 200px></picture>
 
 <br>
 I am an undergraduate student in Creative Technology studying Human-Computer Interactions. As part of the Artificial Lives group, I am interested in computer science, deep learning and electronics. I'm working on projects aiming at making human-computer interfaces seameless, smooth and intuitive.
